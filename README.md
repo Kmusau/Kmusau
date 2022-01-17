@@ -9,7 +9,7 @@ I am a fullstack developer based in Nairobi, Kenya
 - 🌱 I use Java, Spring Boot, Angular, React JS 
 - 📫 How to reach me: [Email](mailto:kmusau14@gmail.com)   ---  [LinkedIn](https://www.linkedin.com/in/kelvin-musau-b33ab1183/)
 - ⚡ Fun fact: Code is poetry 😊😊
-![code](https://user-images.githubusercontent.com/51605137/149787824-f1f2ffbf-1b18-46d5-b91a-c583eb872325.gif)
+
 
 <!--
 **Kmusau/Kmusau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -24,4 +24,5 @@ I am a fullstack developer based in Nairobi, Kenya
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: Code is poetry 
+- ![code](https://user-images.githubusercontent.com/51605137/149787824-f1f2ffbf-1b18-46d5-b91a-c583eb872325.gif)
 -->
