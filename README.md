@@ -4,9 +4,9 @@
 
 ![Kelvins GitHub stats](https://github-readme-stats.vercel.app/api?username=Kmusau&theme=synthwave&show_icons=true&count_private=true)
 
-I am a fullstack developer based in Nairobi, Kenya 
-- 🔭 I’m currently a final year student at Egerton University 
-- 🌱 I use Java, Spring Boot, Angular, React JS 
+I am a Software Engineer based in Nairobi, Kenya 
+- 🔭 I design, build and maintain softwares for the education sector  
+- 🌱 I use Java, Spring Boot, Angular 
 - 📫 How to reach me: [Email](mailto:kmusau14@gmail.com)   ---  [LinkedIn](https://www.linkedin.com/in/kelvin-musau-b33ab1183/)
 - ⚡ Fun fact: Code is poetry 😊😊
 
