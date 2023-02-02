@@ -5,7 +5,7 @@
 ![Kelvins GitHub stats](https://github-readme-stats.vercel.app/api?username=Kmusau&theme=synthwave&show_icons=true&count_private=true)
 
 I am a Software Engineer based in Nairobi, Kenya 
-- 🔭 I design, build and maintain softwares for the education sector  
+- 🔭 I design, build and maintain payments systems for Africa  
 - 🌱 I use Java, Spring Boot, Angular 
 - 📫 How to reach me: [Email](mailto:kmusau14@gmail.com)   ---  [LinkedIn](https://www.linkedin.com/in/kelvin-musau-b33ab1183/)
 - ⚡ Fun fact: Code is poetry 😊😊
